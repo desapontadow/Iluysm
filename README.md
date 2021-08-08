@@ -1,2 +1,3 @@
-# Iluysmv3
-Iluysm Self Bot - Version 3 [Iluysm v3]
+Iluysm - Self Bot.
+
+Todas explicações iriao aparecer em seu navegador assim que iniciar o start.bat
